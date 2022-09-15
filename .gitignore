@@ -88,3 +88,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+RealmApp/RealmApp/Delegate/AppDelegate.swift
+RealmApp/RealmApp/Delegate/SceneDelegate.swift
+RealmApp/RealmApp/Base.lproj/Main.storyboard
+RealmApp/RealmApp/Base.lproj/LaunchScreen.storyboard
+RealmApp/RealmApp/Assets.xcassets/Contents.json
+RealmApp/RealmApp/Assets.xcassets/AppIcon.appiconset/Contents.json
+RealmApp/RealmApp/Assets.xcassets/AccentColor.colorset/Contents.json
+RealmApp/RealmApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+RealmApp/RealmApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
