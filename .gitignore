@@ -97,3 +97,15 @@ RealmApp/RealmApp/Assets.xcassets/AppIcon.appiconset/Contents.json
 RealmApp/RealmApp/Assets.xcassets/AccentColor.colorset/Contents.json
 RealmApp/RealmApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 RealmApp/RealmApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+RealmApp/RealmApp.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+RealmApp/RealmApp/Assets.xcassets/checkbox.imageset/checkbox.png
+RealmApp/RealmApp/Assets.xcassets/AppIcon.appiconset/Contents.json
+RealmApp/RealmApp/Assets.xcassets/checkbox.imageset/Contents.json
+RealmApp/RealmApp/Assets.xcassets/unmark.imageset/unmark.png
+RealmApp/RealmApp/Assets.xcassets/unmark.imageset/Contents.json
+RealmApp/RealmApp/Base.lproj/LaunchScreen.storyboard
+RealmApp/RealmApp/Base.lproj/Main.storyboard
+RealmApp/RealmApp/Controller/Base.lproj/LaunchScreen.storyboard
+RealmApp/RealmApp/Controller/Base.lproj/Main.storyboard
+RealmApp/RealmApp/Assets.xcassets/AppIcon.appiconset/Contents.json
+RealmApp/RealmApp.xcodeproj/project.pbxproj
